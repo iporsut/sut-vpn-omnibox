@@ -1,0 +1,8 @@
+{
+  "name": "SUT VPN",
+  "description" : "To use, type 'vpn' plus a URL for load through SUT VPN.",
+  "version": "1.0",
+  "background_page": "background.html",
+  "omnibox": { "keyword" : "vpn" },
+  "permissions" : ["tabs"]
+}
